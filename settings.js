@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© *`𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙽𝙸𝙼𝙰🗿✅',
+  CAPTION : '© *`𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙽𝙸𝙼𝙰🗿✅`*',
   STICKER_PACK : 'ｘ 𝛮𝛪𝛭𝛮𝛥𝐷𝛥 ✨️💗',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
